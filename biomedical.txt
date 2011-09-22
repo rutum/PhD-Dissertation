@@ -1,0 +1,876 @@
+.1.
+
+ -(Control)- of cell_cycle in -(Response)- to Osmostress : Lessons from Yeast 
+ 
+ ---
+.2.
+
+ -(To)- maximize the probability of survival and proliferation , cells coordinate various intracellular activities in -(response)- to changes in the extracellular environment . 
+ 
+ 
+ ---
+.3.
+
+  Eukaryotic cells transduce diverse cellular stimuli -(by)- multiple mitogenactivated protein kinase ( MAPK ) cascades . 
+ 
+ 
+ ---
+.4.
+
+  Exposure of cells to stress -(results)- in rapid activation of a highly conserved family of MAPKs , known as stressactivated protein kinases ( SAPKs ) . 
+ 
+ 
+ ---
+.5.
+
+  Activation of SAPKs -(results)- in the generation of a set of adaptive -(responses)- that -(leads)- to the modulation of several aspects of cell physiology -(essential)- for cell survival , such as gene expression , translation , and morphogenesis . 
+ 
+ 
+ ---
+ .6.
+
+  This chapter proposes that regulation of cell_cycle progression is another general stress -(response)- -(critical)- for cell survival . 
+ 
+ 
+ ---
+ .7.
+
+ Studies from yeast , both Schizosaccharomyces pombe and Saccharomyces cerevisiae , have served to start understanding how SAPKs control cell_cycle progression in -(response)- to stress . 
+ 
+ 
+ ---
+ .8.
+
+ Introduction 
+ 
+ ---
+ .9.
+
+ Cells are exposed constantly to stress situations such as changes in temperature , pH , radiation , availability of nutrients , and access to oxygen . 
+ 
+ ---
+ .10.
+
+  Cells are able to coordinate intracellular activities in order -(to)- -(respond)- to these stresses , which -(allow)- them to adapt to the new environmental conditions . 
+ 
+ 
+ 
+ ---
+ .11.
+
+  One of the most common stresses is the change of osmotic pressure . 
+ 
+ 
+ ---
+ .12.
+
+  -(When)- cells are submitted to hyperosmotic shock , these cells lose cellular water -(by)- passive diffusion . 
+ 
+ 
+ ---
+ .13.
+
+  Yeast cells have developed a battery of mechanisms -(to)- fight against water loss . 
+ 
+ 
+ 
+ ---
+ .14.
+
+  Accumulation of osmolytes has a central role in osmoadaption ; in Saccharomyces cerevisiae , this osmolyte is glycerol ( de Nadal et al . , 2002 ; Hohmann , 2002 ; Yancey et al . , 1982 ) . 
+ 
+ ---
+ .15.
+
+  The Hog1 stress activated protein kinase cascade , a prototypical eukaryotic mitogen activated protein kinase ( MAPK ) pathway in S . cerevisiae , was discovered by its involvement in osmoadaptation ( Brewster et al . , 1993 ; Gustin et al . , 1998 ) ; similarly , the Sty1 MAPK was discovered in Schizosaccharomyces pombe . 
+ 
+ ---
+ .16.
+
+  A consensus idea of osmoadaptation is conserved across eukaryotes , and -(thus)- yeasts are an ideal model system -(to)- study these processes . 
+ 
+ 
+ ---
+ .17.
+
+  The cell_cycle process , -(by)- which one cell grows and divides into two daughter cells , consists of four phases : G1 ( in which cells grow and make the decision to commit cell_division ) , S ( -(when)- chromosomes replicate ) , G2 ( -(when)- cells prepare the next phase ) , and M ( a complex phase in which chromosomes separate and cells divide ) . 
+ 
+ 
+ ---
+ .18.
+
+  After the M_phase , cells enter again into G1 , -(hence)- completing a ' ' cycle . ' ' Cell_cycle progression is often modulated by signal transduction pathways as a -(result)- of either intracellular stimuli ( e.g. , by the activation of mitotic spindle assembly checkpoint ) or external factors such as mating pheromone . 
+ 
+ 
+ ---
+ .19.
+
+  This chapter proposes the existence of a new checkpoint , the osmocheckpoint , which consists of a complex -(response)- -(controlled)- -(by)- stress activated protein kinases ( SAPKs ) , that -(affects)- several phases of the cell_cycle to -(allow)- adaptation to external osmolarity . 
+ 
+ 
+ ---
+ .20.
+
+  Regulation of the {Yeast cell_cycle}:2 
+ 
+ ---
+ .21.
+
+ In S . cerevisiae , a highly regulated and complex network of proteins -(governs)- the cell_cycle process , although major events are -(controlled)- by a single CDK ( Cdc28 ) whose regulation is achieved mainly -(through)- the synthesis and degradation of cyclins and inhibitors . 
+ 
+ ---
+ .22.
+
+  At the beginning of G1 , Cln3 cyclin is sequestered in the cytoplasm by the Whi3 retention factor ( Belli et al . , 2001 ; Gari et al . , 2001 ) ; later , the nuclear concentration of Cln3 64 J . Clotet and F . Posas increases in relationship to the total cell mass ( Chen et al . , 2000 ) . 
+ 
+ 
+ ---
+ .23.
+
+  -(When)- the level of the Cln3 / Cdc28 complex is higher than a certain threshold , it -(triggers)- the phosphorylation of Whi5 ( an orthologue of the mammalian Rb protein ) . 
+ 
+ 
+ ---
+ .24.
+
+  This event -(allows)- the transcription of a second wave of cyclins ( Cln1 , Cln2 , Clb5 , and Clb6 ) -(by)- the activation of the SBF and the MBF transcription complex . 
+ 
+ 
+ ---
+ .25.
+
+  The activation and accumulation of Cln1 , 2 / Cdc28 -(engage)- two processes : the initiation of bud formation and phosphorylation of Sic1 , which -(leads)- to its ubiquitination by the SCF / Cdc4 complex ( Verma et al . , 1997 ) and its destruction by the proteasome . 
+ 
+ 
+ ---
+ .26.
+
+  -(When)- Sic1 is degraded , Clb5 , 6 / Cdc28 activity rises abruptly and -(drives)- cells into S_phase . 
+ 
+ 
+ ---
+ .27.
+
+  The progression into G2_phase -(depends)- mainly on another wave of cyclin production : Clb1 and Clb2 .
+ 
+ 
+ --- 
+ .28.
+
+  The Mcm1 / SFF ( Mcm1 / Fkh2 / Ndd1 ) complex is the transcription factor of CLB1 and CLB2 ( Althoefer et al . , 1995 ; Jorgensen and Tyers , 2000 ; Maher et al . , 1995 ) . 
+ 
+ ---
+ .29.
+
+  The transcription of CLB1 and CLB2 is autocatalytic -(because)- it -(promotes)- its own transcription . 
+ 
+ 
+ ---
+ .30.
+
+  The activity of the Clb2 / Cdc28 complex is -(controlled)- -(by)- inhibitory phosphorylation at a conserved tyrosine in the N terminus of Cdc28 by the kinase Swe1 and the reverse phosphatase Mih1 . 
+
+ 
+ ---
+ .31.
+
+  Swe1 does not play an important role during vegetative growth ( Amon et al . , 1992 ) , but it has been demonstrated that it -(responds)- to cytoskeletal perturbations ( McNulty and Lew , 2005 ) . 
+ 
+ 
+ ---
+ .32.
+
+  At the end of the cell_cycle , -(when)- DNA is fully replicated and all chromosomes are aligned on the metaphase plate , Cdc20 is activated ( Hwang et al . , 1998 ) and activation of Cdc20 / APC -(promotes)- degradation of part of the Clb2 protein ( Baumer et al . , 2000 ) . 
+ 
+ 
+ ---
+ .33.
+
+  Later , -(when)- the nucleus migrates into the daughter cell , the Cdh1 / APC destroys the remaining Clb2 protein . 
+ 
+ 
+ ---
+ .34.
+
+  This event represents the exit from mitosis and the start of a new cycle . 
+ 
+ 
+ 
+ ---
+ .35.
+
+  In the fission yeast S . pombe , cell_cycle progression is also -(controlled)- by a single CDK ( Cdc2 ) associated with several cyclins . 
+ 
+ 
+ ---
+ .36.
+
+  During G1 , Cdc2 is associated with the cyclin Puc1 ( p ) ( a close relative of Cln proteins in budding yeast ) , which regulates the length of G1 ( Martin Castellanos et al . , 2000 ) . 
+ 
+ 
+ ---
+ .37.
+
+  It is worth noting that puc1 is not the unique cyclin that -(controls)- G1 -(because)- mitotic cyclins are also playing some role in G1 ( see later ) . 
+ 
+ 
+ ---
+ .38.
+
+  Also , Cdc2 / Puc1 may be -(important)- in downregulating the rum1 Cdk inhibitor ( the homologue of S . cerevisiae Sic1 ) at the end of G1 ( Martin Castellanos et al . , 2000 ) . 
+ 
+ 
+ ---
+ .39.
+
+  The onset of the S_phase in fission yeast is regulated positively at Start by another cyclin : cig2 , a B type cyclin that performs similar functions to Clb5 , Clb6 in S . cerevisiae ( Mondesert et al . , 1996 ) . 
+ 
+ 
+ ---
+ .40.
+
+  Similarly to S . cerevisiae , rum1 may transiently -(inhibit)- cig2 associated cdc2 activity until the critical cell size required for Start is reached ( Martin Castellanos et al . , 1996 ) .
+ 
+ 
+ --- 
+ .41.
+
+  During G2 , two B type cyclins -(promote)- progression of the cell_cycle : cig1 and cdc13 ( cig1 has no obvious homologues in S . cerevisiae , but cdc13  corresponds to the Clb1 and the Clb2 mitotic B type cyclins ) . 
+ 
+ 
+ ---
+ .42.
+
+  Correspondingly , the Cdc2 mitotic complexes are regulated negatively by the Wee1 protein kinase . 
+ 
+ ---
+ .43.
+
+  Phosphorylation of Cdc2 on tyrosine 15 by Wee1 is -(critical)- for the inhibition of the complex , whereas dephosphorylation of these residues by the Cdc25 phosphatase is the key event -(governing)- the initiation of mitosis ( Gould and Nurse , 1989 ; Millar et al . , 1991 ) . 
+ 
+ 
+ ---
+ .44.
+
+  Therefore , the balance between the levels of Wee1 and Cdc25 sets a threshold for the activity of the cdc13 cdc12 and cig1 cdc13 complexes that -(determines)- the correct timing of M_phase initiation . 
+ 
+ 
+ ---
+ .45.
+
+  At the end of mitosis , Cdc13 and Cig1 are partially degraded , possibly by the Slp1 APC / C complex ( the equivalent of Cdc20 / APC complex in S . cerevisiae ) . 
+ 
+ 
+ ---
+ .46.
+
+  The remaining activity is -(necessary)- -(for)- the progression in G1_phase and is fully degraded by the Ste9 / Srw1 associated with the APC / C ( the homologous complex of Cdh1 / APC ) ( Blanco et al . , 2000 ) . 
+ 
+ 
+ ---
+ .47.
+
+  Then , the complete destruction of mitotic cyclins occurs during the G1_phase , -(when)- cells start a new cycle .
+ 
+ 
+ ---
+ .48.
+
+  Osmostress -(Response)- in Budding and Fission Yeast 
+ 
+ ---
+ .49.
+
+ Exposure of cells to osmostress -(results)- in rapid activation of a highly conserved family of MAPKs , known as stress activated protein kinases .
+ 
+ 
+ ---
+ .50. 
+
+  Activation of SAPKs elicits the program for cell adaptation , which includes transcriptional and translational regulation of the genome allowing longterm adaptation .
+ 
+ 
+ --- 
+ .51.
+
+  Moreover , the same program also -(produces)- a short term adaptation effect , such as glycerol accumulation ( Albertyn et al . , 1994 ) , or the reestablishment of ionic balance ( Proft and Struhl , 2004 ) . 
+ 
+ 
+ ---
+ .52.
+
+  The accumulation of compatible solutes , such as glycerol , is a ubiquitous mechanism in cellular osmoregulation . 
+ 
+ 
+ ---
+ .53.
+ 
+ Yeast cells also -(control)- glycerol accumulation via the Fps1p -(mediated)- export of glycerol ( Tamas et al . , 1999 ) . 
+ 
+ 
+ ---
+ .54.
+
+  The SAPK pathways are extremely conserved among eukaryotes and are composed of a tier of three consecutively activated kinases : a MAP kinase kinase kinase ( MAPKKK ) , a MAP kinase kinase ( MAPKK ) , and a MAP kinase ( MAPK ) . 
+ 
+ 
+ ---
+ .55.
+
+  Once phosphorylated , the MAPK concentrates in the nucleus , where it can phosphorylate its protein targets on serine / threonine followed by a proline ( S / T P ) . 
+ 
+ 
+ ---
+ .56.
+
+  However , a portion of activated MAP kinase is retained in the cytoplasm -(to)- regulate cytosolic events ( Reiser et al . , 1999 ) . 
+ 
+ 
+ ---
+ .57.
+
+  Pathways of MAP kinase are -(controlled)- negatively by protein phosphatases acting on two levels : the MAPKK ( serine threonine phosphatases ) or only on the MAP kinase ( serine threonine phosphatases and tyrosine phosphatases ) ( Keyse , 2000 ) . 
+ 
+ 
+ ---
+ .58.
+
+  There are different sensing mechanisms upstream of 66 J . Clotet and F . Posas MAP kinase and generally include receptor tyrosine kinases ( in animal systems ) , G protein coupled receptors , phosphorelay systems , and others . 
+ 
+ ---
+ .59.
+
+  In S . cerevisiae , the high osmolarity glycerol ( HOG ) pathway is the best characterized system implicated in osmostress . 
+ 
+ 
+ ---
+ .60.
+
+  As it happens with other MAPK pathways , the central core of the yeast HOG pathway comprises a layer of three MAPKKKs ( Ssk2 , Ssk22 , and Ste11 ) , which are -(responsible)- for -(activation)- of the unique MAPKK of the pathway Pbs2 . 
+ 
+ 
+ ---
+ .61.
+
+  Afterward , Pbs2 -(activates)- the Hog1 MAPK -(by)- phosphorylation ( Brewster et al . , 1993 ) 
+ 
+ 
+ ---
+ .62.
+
+  Hog1 is a homologue of the p38 and c Jun N terminal kinase ( JNK ) families of SAPKs . 
+ 
+ ---
+ .63.
+
+  Hog1 phosphorylation -(promotes)- a fast and pronounced concentration of Hog1 in the nucleus , whereas in basal conditions , distribution of Hog1 is between the nucleus and the cytosol ( Ferrigno et al . , 1998 ; Reiser et al . , 1999 ) . 
+ 
+ 
+ ---
+ .64.
+
+  Two branches -(activate)- the HOG pathway through the activation of either the Ssk2 and Ssk22 or the Ste11 MAPKKKs : the Sln1 branch and the Sho1 branch ( Maeda et al . , 1995 ) . 
+ 
+ 
+ ---
+ .65.
+
+  The Sln1 branch involves a ' ' two component ' ' osmosensor , composed of the Sln1 Ypd1 Ssk1 proteins that -(funnel)- the signal to the Ssk2 / 22 MAPKKKs . 
+ 
+ 
+ ---
+ .66.
+
+  Unexpectedly , -(because)- Sln1 acts as a negative regulator of the HOG pathway , deletion of SLN1 -(leads)- to a lethal phenotype -(because)- the pathway is activated sustainedly ( Maeda et al . , 1994 ) . 
+ 
+ 
+ ---
+ .67.
+
+  A second mechanism for Pbs2 activation involves several proteins : the transmembrane protein Sho1 , the mucin like protein Msb2 ( Albertyn et al . , 1994 ) , the MAPKKK Ste11 , the Ste11 binding protein Ste50 , the Ste20 p21 activated kinase , and the small GTPase Cdc42 ( Posas et al . , 1998 ) , but the complete mechanism used by this osmosensor is still unknown . 
+ 
+ 
+ ---
+ .68.
+
+  In fission yeast , the Sty1 SAPK pathway is linked to osmostress adaptation . 
+ 
+ 
+ ---
+ .69.
+
+  The central elements of this pathway are the MAPK Sty1 ( also known as Spc1 ) , the MAPKK Wis1 , and the two MAPKKK Wak1 and Win1 ( Wilkinson and Millar , 1998 ) . 
+ 
+ ---
+ .70.
+
+  Cells deleted for sty1 or wis1 are highly elongated as a -(consequence)- of a delay in the timing of mitotic initiation , which is exacerbated in -(response)- to stress . 
+ 
+ 
+ ---
+ .71.
+
+  The pathway is activated by a sensor composed of three histidine kinases ( Phk1 / Mak2 , Phk2 / Mak3 , and Phk3 / Mak1 ) ( Aoyama et al . , 2001 ) and two response regulators ( Mcs4 and Prr1 ) ( Ohmiya et al . , 1999 ; Shieh et al . , 1997 ) . 
+ 
+ ---
+ .72.
+
+  This pathway is also inactivated by protein phosphatases . 
+ 
+ ---
+ .73.
+
+  A number of effectors of the Sty1 SAP kinase have been identified , including the Atf1 , Pcr1 , and Pap1 transcription factors , which are homologues of mammalian ATF 2 and c Jun , respectively ( Shiozaki and Russell , 1996 ; Wilkinson et al . , 1996 ) . 
+ 
+ 
+ ---
+ .74.
+
+  In addition , Sty1 binds and phosphorylates two downstream kinases , Cmk2 and Srk1 ( Sty1 regulated kinase ) , which are related to the mammalian calmodulin dependent and MAPKAP kinases . 
+ 
+ 
+ ---
+ .75.
+
+  -(Control)- of the G1_Phase by SAPKs Activation of Hog1 -(by)- exposure to the cells to high osmolarity ( 0.4 M NaCl ) or -(because)- of activation of upstream components of the MAPK pathway ( i.e. , Sln1 inactivation ) -(results)- in cell_cycle arrest in G1 ( Escote et al . , 2004 ) . 
+ 
+ 
+ ---
+ .76.
+
+  Hog1 mediated G1 arrest is partially -(due)- to the down_regulation of Cln1 , Cln2 , and Clb5 expression .
+ 
+ 
+ ---
+ .77. 
+
+  The exact nature of the mechanism that -(represses)- the expression of SBF and MBF promoters under osmotic stress is still not known . 
+ 
+ 
+ ---
+ .78.
+
+  Cln1 , 2 / Cdc28 activities are -(necessary)- -(to)- reach a threshold of Sic1 phosphorylation , the subsequent ubiquitination by the Cdc4 ubiquitin ligase , and the posterior degradation by the proteasome . 
+ 
+ 
+ ---
+ .79.
+
+  Therefore , the downregulation of cln production might explain , at least in part , the delay in S_phase entry as a -(consequence)- of an increased accumulation of Sic1 . 
+ 
+ 
+ ---
+ .80.
+
+  Hog1 arrests cells in G1 by an alternative mechanism : the direct phosphorylation of Sic1 ( Escote et al . , 2004 ) . 
+ 
+ 
+ ---
+ .81.
+
+  Hog1 interacts physically with Sic1 in vivo and in vitro and , upon osmostress , phosphorylates a single residue ( Thr 173 ) at the carboxyl terminus of Sic1 , which -(results)- in Sic1 stabilization and 68 J . Clotet and F . Posas inhibition of cell_cycle progression .
+ 
+ 
+ ---
+ .82. 
+
+  Phosphorylation at threonine 173 interferes somehow with the binding of Sic1 with the Cdc4 
+ 
+ 
+ ---
+ .83.
+
+  Therefore , sic1 is targeted by Hog1 through two independent mechanisms : downregulation of Cln levels and direct phosphorylation of T173 . 
+ 
+ 
+ ---
+ .84.
+
+  This dual mechanism of regulation raises the following question . 
+ 
+ 
+ ---
+ .85.
+
+  What is the advantage of a redundant mechanism -(to)- regulate entry into S_phase upon osmostress ? 
+ 
+ 
+ ---
+ .86.
+
+  This system could be envisioned as a two step mechanism : an initial step -(to)- -(cause)- immediate arrest -(by)- acting directly over the CDK inhibitor ( Sic1 phosphorylation ) and then a decrease on Cln transcription that would be -(essential)- in maintaining the arrest for a prolonged time . 
+ 
+ 
+ ---
+ .87.
+
+  This scenario could also satisfy the -(critical)- step of preventing entry into S_phase for different type of cells . 
+ 
+ 
+ ---
+ .88.
+
+  Cells at early G1 could be arrested easily -(by)- the simple decrease on Cln levels , whereas cells in advanced G1 , with high levels of Clns , would -(require)- a more direct effect over the Sic1 inhibitor -(to)- -(restrict)- their entry into S_phase . 
+ 
+ ---
+ .89.
+
+  Quantitative experiments performed in our laboratory -(support)- this hypothesis : cells stressed later in G1 with high levels of Cln still stabilize Sic1 and are arrested in G1  . 
+ 
+ ---
+ .90.
+
+  Alternatively , and based on the fact that Clns and Sic1 might -(control)- different phenomena during G1 progression , Clns regulate SPB duplication and bud emergence and Sic1 -(controls)- the exact timing of DNA replication . 
+ 
+ ---
+ .91.
+
+  Activation of Hog1 could -(control)- all the processes that occur in G1 .
+ 
+ --- 
+ .92.
+
+  Hog1 could act on Cln proteins -(to)- -(avoid)- early budding under stress conditions and , specifically , on Sic1 to -(allow)- replication only when cells were adapted .
+ 
+ --- 
+ .93.
+
+  Indeed , cells that carry a copy of Sic1 nonphosphorylatable by Hog1 ( substitution of Thr173 by Ala ) have a little arrest in G1 upon osmotic stress , but -(result)- in genomic instability ( Escote et al . , 2004 ) . 
+ 
+ ---
+ .94.
+
+  These results -(suggest)- that the increase of Sic1 stability by Cln1 , 2 / Cdc28 downregulation under osmotic stress is not sufficient -(to)- -(ensure)- the correct entry into S_phase . 
+ 
+ ---
+ .95.
+
+  Direct Hog1 mediated phosphorylation of Sic1 could offer this extra mechanism -(to)- -(ensure)- the exact timing of G1 / S transition . 
+ 
+ ---
+ .96.
+
+  -(Control)- of the G2_Phase by SAPKs G2 transition -(depends)- on the activity of CDK associated with mitotic cyclins . 
+ 
+ ---
+ .97.
+
+  Wee kinases are negative regulators of such activity and -(control)- the length of G2_phase under specific conditions . 
+ 
+ ---
+ .98.
+
+  In S . pombe , the Wee1 kinase -(allows)- entry into mitosis -(when)- cells reach a minimum threshold size and , in S . cerevisiae , Swe1 -(activates)- the morphogenetic checkpoint . 
+ 
+ ---
+ .99.
+
+  The physiological role of this later checkpoint is under discussion ( Keaton and Lew , 2006 ; Kellogg , 2003 ; McNulty and Lew , 2005 ) and is not clear whether it -(responds)- to cytoskeletal perturbations or -(monitors)- the size of the bud like in S . pombe cells . 
+ 
+ ---
+ .100.
+
+  The molecular basis of the morphogenetic checkpoint seems firmly established : the septin ring formed on the neck between mother and daughter cell recruits Hsl1 ( a septin dependent protein kinase ) , which interacts with Hsl7 ( a protein that serves as a holder to recruit Swe1 ) ; this complex is -(necessary)- -(to)- localize Swe1 to the neck and target it for destruction , as well as to activate Cdc28 / Clb2.
+ 
+ ---
+ .101.
+
+ -(When)- bud formation ( or growth ) is impaired , Swe1 remains active and cells do not progress into mitosis ( McMillan et al . , 1999 ) . 
+ 
+ ---
+ .102.
+
+  Activation of Hog1 upon osmostress -(induces)- a delay in G2 by the decrease of Clb2 / Cdc28 activity and by the downregulation of CLB2 transcription ( Alexander et al . , 2001 ; Clotet et al . , 2006 ) . 
+ 
+ ---
+ .103.
+
+  The mechanisms that Hog1 uses to downregulate Clb2 transcription are not known , but this could be a secondary effect -(caused)- -(by)- the decrease on Clb2 / Cdc28 {activity} . 
+ 
+ ---
+ .104.
+
+  Instead , the mechanism required to decrease Clb2 activity seems clear : Hog1 is acting over the machinery of the morphogenetic checkpoint that -(controls)- Swe1 levels . 
+ 
+ ---
+ .105.
+
+  Activated Hog1 interacts and directly phosphorylates Hsl1 in a residue within the Hsl7 docking site , which -(promotes)- the delocalization of Hsl7 from the neck that -(results)- in Swe1 accumulation ( Clotet et al . , 2006 ) . 
+ 
+ ---
+ .106.
+
+  Upon Hog1 activation , cells containing a nonphosphorylatable Hsl1 are unable to -(promote)- Hsl7 delocalization , fail to accumulate Swe1 , and arrest at G2 . 
+ 
+ ---
+ .107.
+
+  Thus they are sensitive to osmotic stress . 
+ 
+ ---
+ .108.
+
+  It is worth noting that the same machinery used by the cells to monitor morphogenetic defects can integrate other signals . 
+ 
+ ---
+ .109.
+
+  Interestingly , whereas 70 J . Clotet and F . Posas the morphogenetic checkpoint monitors the absence of a septin ring , which -(produces)- the absence of Hsl1 , Hsl7 , and Swe1 at the bud neck , the osmocheckpoint specifically delocalizes Hsl7 without affecting Hsl1 or septins ( Clotet et al . , 2006 ) . 
+ 
+ ---
+ .110.
+
+  In S . pombe , the Skb1 protein has been described as the homologue of Hsl7 in S . cerevisiae . 
+ 
+ ---
+ .111.
+
+  In -(response)- to osmostress , Skb1 delocalizes from the cell ends and nuclei ; in addition , skb1 deletion strains are osmosensitive ( Bao et al . , 2001 ) . 
+ 
+ ---
+ .112.
+
+  However , there is not a perfect homologue of Hsl1 , and the exact mechanism by which Skb1 is delocalized and confers osmoresistence has not been described . 
+ 
+ ---
+ .113.
+
+  Another important difference is the fact that Skb1 has been described as a factor that regulates Wee1 positively . 
+ 
+ ---
+ .114.
+
+  This is the opposite of what has been described in S . cerevisiae and mammalian cells in which it has been -(demonstrated)- that Skb1Hs plays a role in destabilizing Wee1 ( Lew , 2003 ) . 
+ 
+ ---
+ .115.
+
+  Another interesting mechanism to slow down G2 progression in -(response)- to osmotic stress consists of regulation of the Cdc25 phosphatase by Srk1 ( Lo ' pez Avile ' s et al . , 2005 ) . 
+ 
+ ---
+ .116.
+
+  Cdc25 is the key factor -(governing)- the initiation of mitosis that reverses inhibition of the Cdc2 mitotic complex -(because)- of phosphorylation by the Wee1 kinase ( Gould and Nurse , 1989 ; Millar et al . , 1991 ) . 
+ 
+ ---
+ .117.
+
+  Srk1 is related to the mammalian MAPKAP kinases and its overexpression -(causes)- cell_cycle arrest in late G2_phase . 
+ 
+ ---
+ .118.
+
+  Srk1 interacts with and phosphorylates Cdc25 . 
+ 
+ ---
+ .119.
+
+  -(After)- exposure of cells to KCl , Sty1 phosphorylates Srk1 and the catalytic activity of Srk1 increases more than fivefold . 
+ 
+ ---
+ .120.
+
+  Phosphorylation of Cdc25 by Srk1 -(causes)- Cdc25 to bind to Rad24 , a 14 3 3 protein family member , which helps retain Cdc25 in the cytoplasm and protect it from degradation .
+ 
+ ---
+ .121. 
+
+  These results suggest that Sty1 SAP kinase is the effector of a checkpoint pathway that -(controls)- Cdc25 activity in -(response)- to osmotic stress . 
+ 
+ ---
+ .122.
+
+  -(Control)- of the Anaphase Telophase Transition Fission yeast has several mechanisms of surveillance that -(control)- the transition between different phases of the cycle . 
+ 
+ ---
+ .123.
+
+  For example , during anaphase , the spindle assembly checkpoint -(blocks)- the separation of chromosomes until the chromosomes are aligned , attached , and tensed in the middle of the spindle . 
+ 
+ ---
+ .124.
+
+  This checkpoint has been described in many organisms with the same elements : ( 1 ) a cohesin complex , an element that makes cohesion between sister chromatids , which includes the Scc1 / Rad21 protein ; ( 2 ) the separase Cut1 , a large molecular weight protease , which specifically cleaves Rad21 ; and ( 3 ) the securin Cut2 , a chaperon and inhibitor of the Cut1 separase , which is a substrate of the E3 ligase APC / C . 
+ 
+
+ ---
+ .125.
+
+  -(When)- the chromosomes 71 are perfectly aligned , APC is activated and polyubiquitinatesCut2 for destruction by the proteasome . 
+ 
+ ---
+ .126.
+
+  Then , the separase ( Cut1 ) is active and cleaves the cohesin subunit Scc1 / Rad21 . 
+ 
+ ---
+ .127.
+
+  This later event marks the transition between anaphase and telophase . 
+ 
+ 
+ ---
+ .128.
+
+  In S . pombe , it has been described that SAPK Sty1 -(affects)- the levels and phosphorylation of securin under osmotic stress ( Kawasaki et al . , 2006 ) . 
+ 
+ ---
+ .129.
+
+  Stress -(causes)- a transient cell_cycle arrest in anaphase , and this arrest is -(dependent)- neither on the DNA damage checkpoint nor on the mitotic spindle checkpoint but -(requires)- the Spc1 / Sty1 SAP kinase . 
+ 
+ ---
+ .130.
+
+  The increase on Cut2 protein after the arrest -(caused)- -(by)- osmostress -(requires)- the presence of Sty1 SAP kinase , but the exact mechanism of this -(control)- is still unknown ( Kawasaki et al . , 2006 ) . 
+ 
+ ---
+ .131.
+
+  All these data suggest that SAP kinases could also -(control)- the anaphase telophase transition under osmotic stress . 
+ 
+ ---
+ .132.
+
+ Regulation of Exit from Mitosis by SAPKs 
+ 
+ ---
+ .133.
+
+ The exit from mitosis after chromosome segregation is -(triggered)- by the activation of Tem1 , a G protein located in the spindle pole body ( Morgan , 1999 ) . 
+ 
+ ---
+ .134.
+
+  -(When)- cells undergo anaphase , the spindle pole body enters into the daughter cell where the GEF for Tem1 , Lte1 , is localized ( Pereira et al . , 2000 ) . 
+ 
+ 
+ 
+ ---
+ .135.
+
+  Tem1 then binds to and -(activates)- the cdc15 kinase and the mitotic exit network ( MEN ) , which -(leads)- to activation of the phosphatase cdc14 . 
+ 
+ 
+ ---
+ .136.
+
+  This protein phosphatase is tightly regulated by the competitive inhibitor Cfi1 / Net1 , which holds Cdc14 inactive in the nucleolus during G1 until nearly mitosis . 
+ 
+ 
+ ---
+ .137.
+
+  Cdc14 is released by the anaphase release ( FEAR ) network and by the MEN and spreads throughout the nucleus and cytoplasm to -(induce)- exit from mitosis , -(promoting)- the destruction of the remaining B type cyclins -(via)- activation of the Cdh1 APC complex . 
+ 
+ 
+ ---
+ .138.
+
+  Cdc14 also -(promotes)- the accumulation of Sic1 and directly dephosphorylates substrates for the CDK1 ( Stegmeier and Amon , 2004 ) . 
+ 
+ 
+ ---
+ .139.
+
+  The MEN pathway turns itself off to facilitate future G1 events -(by)- activation of the antagonistic MEN pathway ( AMEN ) by , at least in part , induction of the Amn1 protein that binds directly to Tem1 and -(prevents)- its association with its target kinase Cdc15 ( Wang et al . , 2003 ) . 
+ 
+ 
+ ---
+ .140.
+
+  Thus , the AMEN pathway is the last step in the process that -(allows)- reentry into the next cell_cycle . 
+ 
+ 
+ ---
+ .141.
+
+  Exit from mitosis is a key step in regulation of the cell_cycle and could be targeted by the action of SAPK under osmotic stress . 
+ 
+ 
+ ---
+ .142.
+
+  This idea is sustained by results shown by Amon and colleagues ( 1992 ) , who found that under hypertonic stress MEN mutants exit from mitosis in a manner -(dependent)- on the Hog1 stress activated kinase . 
+ 
+ 
+ ---
+ .143.
+
+  In such MEN mutants , the HOG pathway -(drives)- exit from mitosis -(by)- -(promoting)- activation of the MEN effector , the protein phosphatase Cdc14 , although the exact mechanism of such an effect remains unclear ( Reiser et al . , 2006 ) .
+ 
+ 
+ ---
+ .144.
+
+  Conclusions and Perspectives Exposure of the cells to stress -(induces)- a rapid activation of the highly conserved family of MAPKs , known as SAPKs . 
+ 
+ 
+ ---
+ .145.
+
+  Activation of SAPKs -(results)- in the generation of a set of adaptive -(responses)- that -(lead)- to the modulation of several aspects of the cell physiology -(essential)- for cell survival , such as gene expression , translation , and morphogenesis . 
+ 
+ 
+ ---
+ .146.
+
+  This chapter proposed that regulation of the cell_cycle is a key general stress -(response)- -(essential)- for cell survival . 
+ 
+ 
+ ---
+ .147.
+
+  We have shown that the variety of molecular strategies that SAPKs use -(for)- modulating the timing of cell_cycle progression is of great complexity : downregulation of different cyclins , stabilization of inhibitors , and delocalization of key molecules . 
+ 
+ 
+ ---
+ .148.
+
+  We also showed that SAPKs are vigilant guards capable of acting immediately in different phases of the cell_cycle . 
+ 
+ 
+ ---
+ .149.
+
+  In contrast to internal signals , which -(produce)- limited checkpoint activation of specific phases of the cycle , stress stimuli activate a general checkpoint in multiple parts of the cell_cycle . 
+ 
+ 
+ ---
+ .150.
+
+  As expected for a SAPK that protects cells from external insults , Hog1 is able to -(induce)- a -(controlled)- arrest in several parts of the cell_cycle : in G1 , S , G2 , and exit from mitosis 
+ 
+ ---
+ .151. 
+
+  Hence , we propose the existence of an osmocheckpoint : a complex -(response)- that could offer -(protection)- to cells in multiple stages of the cell_cycle . 
+ 
+ 
+ ---
+ .152.
+
+  Again , the use of unicellular models has been shown to be very useful in uncovering complex responses .
+ 
+ 
+ ---
+ .153. 
+
+  From yeast studies , we propose that a similar -(response)- to stress might be coordinated by SAPKs in mammals . 
+ 
+ 
+ ---
+ .154.
+
+  Actually , different reports and unpublished observations -(indicate)- that different types of mammalian cells arrest at several stages of the cell_cycle upon osmostress ( Gustin et al . , 1998 ) . 
+ 
+ 
+ ---
+ .155.
+
+  Results from yeast -(suggest)- a conserved mechanism within more complex eukaryotic organisms . 
+ 
+ 
+ --- 
+ 
+ 

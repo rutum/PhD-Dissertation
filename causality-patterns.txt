@@ -1,0 +1,308 @@
+X requiring Y	0.25	0.75	0.295	3
+X that caused Y	0.189	0.567	0.244	3
+X that require Y	0.235	0.47	0.294	2
+Y caused by X	0.2285	0.457	0.232	2
+X would require Y	0.2225	0.445	0.243	2
+X , causing Y	0.211	0.422	0.227	2
+X will require Y	0.2085	0.417	0.241	2
+X will cause Y	0.202	0.404	0.224	2
+X could cause Y	0.2015	0.403	0.203	2
+X that could cause Y	0.2005	0.401	0.206	2
+X that requires Y	0.195	0.39	0.227	2
+X to cause Y	0.1925	0.385	0.194	2
+X that would require Y	0.187	0.374	0.196	2
+X that required Y	0.185	0.37	0.191	2
+X caused Y	0.1825	0.365	0.206	2
+X has required Y	0.1775	0.355	0.185	2
+X that have caused Y	0.174	0.348	0.193	2
+X would also require Y	0.1725	0.345	0.187	2
+X to promote Y	0.169	0.338	0.187	2
+X does not require Y	0.167	0.334	0.169	2
+X and require Y	0.1655	0.331	0.179	2
+X began requiring Y	0.164	0.328	0.166	2
+X , require Y	0.1635	0.327	0.173	2
+X , which governed Y	0.326	0.326	0.326	1
+X to respond to Y	0.162	0.324	0.165	2
+X of promoting Y	0.1615	0.323	0.167	2
+X , which is controlled by Y	0.319	0.319	0.319	1
+X , which rules Y	0.159	0.318	0.161	2
+Y 's government said X	0.1575	0.315	0.158	2
+X and requires Y	0.157	0.314	0.158	2
+X , who governed Y	0.304	0.304	0.304	1
+X : subs lead to Y	0.29	0.290	0.290	1
+X have caused Y	0.288	0.288	0.288	1
+X , controlled by Y	0.284	0.284	0.284	1
+X that cause Y	0.284	0.284	0.284	1
+X has caused Y	0.277	0.277	0.277	1
+X , depending on Y	0.27	0.270	0.270	1
+X that can cause Y	0.265	0.265	0.265	1
+X also caused Y	0.264	0.264	0.264	1
+X requires that Y	0.256	0.256	0.256	1
+X that governed Y	0.255	0.255	0.255	1
+Y caused by the X	0.255	0.255	0.255	1
+X devoted to Y	0.252	0.252	0.252	1
+X , which produces Y	0.251	0.251	0.251	1
+X which ruled Y	0.247	0.247	0.247	1
+Y , who drives the X	0.247	0.247	0.247	1
+X be expanded donors respond to Y	0.244	0.244	0.244	1
+X also requires Y	0.242	0.242	0.242	1
+X of arms control Y	0.237	0.237	0.237	1
+X : recasts lead to Y	0.235	0.235	0.235	1
+X , which ruled Y	0.235	0.235	0.235	1
+X causing Y	0.235	0.235	0.235	1
+X that produce Y	0.233	0.233	0.233	1
+X -- controled Y	0.233	0.233	0.233	1
+X , which had ruled Y	0.227	0.227	0.227	1
+Y , driving a X	0.226	0.226	0.226	1
+X , which requires Y	0.223	0.223	0.223	1
+X had caused Y	0.222	0.222	0.222	1
+X can cause Y	0.222	0.222	0.222	1
+X now require Y	0.22	0.220	0.220	1
+X that result in Y	0.22	0.220	0.220	1
+X to power in Y	0.22	0.220	0.220	1
+X require that Y	0.219	0.219	0.219	1
+X do n't require Y	0.218	0.218	0.218	1
+X require Y	0.216	0.216	0.216	1
+X requires Y	0.216	0.216	0.216	1
+Y 's defense minister said X	0.214	0.214	0.214	1
+X that had ruled Y	0.212	0.212	0.212	1
+X requires the Y	0.21	0.210	0.210	1
+X that promotes Y	0.21	0.210	0.210	1
+Y drove his X	0.208	0.208	0.208	1
+X , a company controlled by Y	0.208	0.208	0.208	1
+Y will drive the X	0.207	0.207	0.207	1
+X to produce Y	0.207	0.207	0.207	1
+X cause Y	0.206	0.206	0.206	1
+X control and Y	0.206	0.206	0.206	1
+X to govern Y	0.204	0.204	0.204	1
+X -- caused Y	0.203	0.203	0.203	1
+X which caused Y	0.203	0.203	0.203	1
+X that may cause Y	0.201	0.201	0.201	1
+X promoting Y	0.201	0.201	0.201	1
+X may cause Y	0.2	0.200	0.200	1
+Y caused by a X	0.198	0.198	0.198	1
+X might cause Y	0.197	0.197	0.197	1
+X controlled by the Y	0.196	0.196	0.196	1
+X that can lead to Y	0.196	0.196	0.196	1
+X , which has ruled Y	0.196	0.196	0.196	1
+Y , who drove for X	0.194	0.194	0.194	1
+Y are caused by X	0.194	0.194	0.194	1
+X drove home the Y	0.194	0.194	0.194	1
+X and causing Y	0.194	0.194	0.194	1
+X is dedicated to Y	0.193	0.193	0.193	1
+X , leading to Y	0.193	0.193	0.193	1
+X governing international Y	0.192	0.192	0.192	1
+X that is controlled by Y	0.191	0.191	0.191	1
+X and promote economic Y	0.19	0.190	0.190	1
+X , depending upon the Y	0.189	0.189	0.189	1
+X do not require Y	0.189	0.189	0.189	1
+X , requiring Y	0.189	0.189	0.189	1
+Y , who drove a X	0.188	0.188	0.188	1
+Y driving a X	0.187	0.187	0.187	1
+X who depend on Y	0.187	0.187	0.187	1
+X caused some Y	0.187	0.187	0.187	1
+X that caused the Y	0.186	0.186	0.186	1
+X commemorating Y	0.186	0.186	0.186	1
+X to require Y	0.186	0.186	0.186	1
+X who drive Y	0.185	0.185	0.185	1
+X , depending on the Y	0.185	0.185	0.185	1
+X still controlled the Y	0.184	0.184	0.184	1
+X won the parliamentary Y	0.183	0.183	0.183	1
+X , which produce Y	0.182	0.182	0.182	1
+X permit Y	0.182	0.182	0.182	1
+X triggered Y	0.182	0.182	0.182	1
+X are causing Y	0.181	0.181	0.181	1
+X are dependent on Y	0.181	0.181	0.181	1
+X , driven by Y	0.18	0.180	0.180	1
+X requires all Y	0.18	0.180	0.180	1
+Y , who drives for X	0.179	0.179	0.179	1
+X based on their Y	0.179	0.179	0.179	1
+X , including mandatory Y	0.179	0.179	0.179	1
+X , which caused Y	0.178	0.178	0.178	1
+X governing foreign Y	0.178	0.178	0.178	1
+Y imported from X	0.177	0.177	0.177	1
+Y 's justice minister said X	0.177	0.177	0.177	1
+Y also were reported in X	0.177	0.177	0.177	1
+X will produce Y	0.176	0.176	0.176	1
+X that governs Y	0.176	0.176	0.176	1
+X face Y	0.176	0.176	0.176	1
+X , which would require Y	0.175	0.175	0.175	1
+X that has ruled Y	0.175	0.175	0.175	1
+Y dealing with X	0.175	0.175	0.175	1
+X to promote greater Y	0.175	0.175	0.175	1
+X , depending on their Y	0.174	0.174	0.174	1
+Y 's cash -- strapped X	0.174	0.174	0.174	1
+X which has ruled Y	0.171	0.171	0.171	1
+X depended on Y	0.171	0.171	0.171	1
+X which has caused Y	0.171	0.171	0.171	1
+X in order to promote Y	0.17	0.170	0.170	1
+Y are sold at the X	0.17	0.170	0.170	1
+X and promotes Y	0.169	0.169	0.169	1
+Y 's attorney general said X	0.169	0.169	0.169	1
+X to require that Y	0.169	0.169	0.169	1
+X which cause Y	0.168	0.168	0.168	1
+X dedicated to the Y	0.168	0.168	0.168	1
+X , produces Y	0.168	0.168	0.168	1
+X to promoting Y	0.168	0.168	0.168	1
+Y gained independence from X	0.168	0.168	0.168	1
+Y to raise their X	0.167	0.167	0.167	1
+X to defuse Y	0.167	0.167	0.167	1
+X can require Y	0.167	0.167	0.167	1
+X could lead to Y	0.166	0.166	0.166	1
+X importing Y	0.166	0.166	0.166	1
+Y 's newly elected X	0.166	0.166	0.166	1
+X allows Y	0.166	0.166	0.166	1
+X caused major Y	0.166	0.166	0.166	1
+Y 's NN.N million registered X	0.165	0.165	0.165	1
+Y triggered by torrential X	0.165	0.165	0.165	1
+X will depend on the Y	0.165	0.165	0.165	1
+X of investors led by Y	0.165	0.165	0.165	1
+Y can sell their X	0.165	0.165	0.165	1
+Y 's economy grew N.N X	0.165	0.165	0.165	1
+X with tinted Y	0.164	0.164	0.164	1
+X would force Y	0.164	0.164	0.164	1
+X be expanded Y	0.164	0.164	0.164	1
+Y , which was invaded by X	0.164	0.164	0.164	1
+X that advocate Y	0.164	0.164	0.164	1
+X -- controlled by Y	0.164	0.164	0.164	1
+X will depend on Y	0.164	0.164	0.164	1
+X governing how Y	0.163	0.163	0.163	1
+X for causing Y	0.163	0.163	0.163	1
+X is subject to regulatory Y	0.163	0.163	0.163	1
+Y -- producing X	0.162	0.162	0.162	1
+X relating to Y	0.162	0.162	0.162	1
+X had suffered heavy Y	0.162	0.162	0.162	1
+X caused serious Y	0.162	0.162	0.162	1
+X was causing Y	0.162	0.162	0.162	1
+X to restore peace to Y	0.162	0.162	0.162	1
+X could reduce Y	0.162	0.162	0.162	1
+X that permits Y	0.161	0.161	0.161	1
+X in elected Y	0.161	0.161	0.161	1
+X would depend on the Y	0.161	0.161	0.161	1
+X caused great Y	0.161	0.161	0.161	1
+X , he said , some Y	0.161	0.161	0.161	1
+X to cope with the Y	0.161	0.161	0.161	1
+X scheduled for next week in Y	0.161	0.161	0.161	1
+Y -- controlled X	0.161	0.161	0.161	1
+X are engaged in Y	0.161	0.161	0.161	1
+Y 's central bank said X	0.161	0.161	0.161	1
+X to review and Y	0.161	0.161	0.161	1
+Y of the doomed X	0.16	0.160	0.160	1
+X rely on Y	0.16	0.160	0.160	1
+X that would limit the Y	0.16	0.160	0.160	1
+Y usually have X	0.16	0.160	0.160	1
+X to encourage the Y	0.16	0.160	0.160	1
+X came to power in Y	0.16	0.160	0.160	1
+X are producing Y	0.16	0.160	0.160	1
+Y prompted some X	0.16	0.160	0.160	1
+X backed by Y	0.16	0.160	0.160	1
+X , there will be Y	0.16	0.160	0.160	1
+Y climbed and X	0.16	0.160	0.160	1
+X used to make Y	0.16	0.160	0.160	1
+X and respond to Y	0.16	0.160	0.160	1
+X , which makes Y	0.159	0.159	0.159	1
+X of the arms control Y	0.159	0.159	0.159	1
+Y caused by heavy X	0.159	0.159	0.159	1
+Y , now controlled by X	0.159	0.159	0.159	1
+X can trigger Y	0.159	0.159	0.159	1
+X is causing Y	0.159	0.159	0.159	1
+Y 's president said X	0.159	0.159	0.159	1
+Y controlled by the X	0.159	0.159	0.159	1
+X resulted in Y	0.159	0.159	0.159	1
+X seeking Y	0.158	0.158	0.158	1
+X reacted coolly to Y	0.158	0.158	0.158	1
+X that could result in Y	0.158	0.158	0.158	1
+Y to comply with the X	0.158	0.158	0.158	1
+Y -- politics , lead NNN X	0.158	0.158	0.158	1
+X who control Y	0.157	0.157	0.157	1
+X responded to the Y	0.157	0.157	0.157	1
+X decline , Y	0.157	0.157	0.157	1
+X -- controlled part of Y	0.157	0.157	0.157	1
+Y related to those X	0.157	0.157	0.157	1
+X wreak Y	0.157	0.157	0.157	1
+X , which is subject to Y	0.157	0.157	0.157	1
+Y were named directors of this X	0.157	0.157	0.157	1
+X , causing widespread Y	0.156	0.156	0.156	1
+X to mark Y	0.156	0.156	0.156	1
+Y 's prime minister said X	0.156	0.156	0.156	1
+Y , which ousted the X	0.156	0.156	0.156	1
+X ban the Y	0.156	0.156	0.156	1
+X ) to discuss Y	0.156	0.156	0.156	1
+Y to boost the X	0.156	0.156	0.156	1
+X to negotiate international Y	0.156	0.156	0.156	1
+X won a civil Y	0.156	0.156	0.156	1
+Y crashed his X	0.156	0.156	0.156	1
+X who suffer Y	0.156	0.156	0.156	1
+X drive Y	0.155	0.155	0.155	1
+X , triggering Y	0.155	0.155	0.155	1
+X have suffered Y	0.155	0.155	0.155	1
+Y under existing X	0.155	0.155	0.155	1
+X , said that under Y	0.155	0.155	0.155	1
+X who have Y	0.155	0.155	0.155	1
+X and the resulting Y	0.155	0.155	0.155	1
+Y were given a X	0.155	0.155	0.155	1
+Y , but i have X	0.155	0.155	0.155	1
+X will open to the Y	0.155	0.155	0.155	1
+X requiring that Y	0.155	0.155	0.155	1
+X drove Y	0.155	0.155	0.155	1
+Y to operate X	0.155	0.155	0.155	1
+Y that violate the X	0.155	0.155	0.155	1
+Y was third in a X	0.154	0.154	0.154	1
+X were questioned by Y	0.154	0.154	0.154	1
+Y have stepped up attacks on X	0.154	0.154	0.154	1
+X and required Y	0.154	0.154	0.154	1
+X -- controlled southern Y	0.154	0.154	0.154	1
+Y pay the same X	0.154	0.154	0.154	1
+X allegedly committed in Y	0.154	0.154	0.154	1
+X -- held northern Y	0.154	0.154	0.154	1
+X who suffer from Y	0.153	0.153	0.153	1
+Y 's ambassador said X	0.153	0.153	0.153	1
+X , would require Y	0.153	0.153	0.153	1
+X claimed victory in Y	0.153	0.153	0.153	1
+X could mean Y	0.153	0.153	0.153	1
+X , allows Y	0.153	0.153	0.153	1
+X that has governed Y	0.153	0.153	0.153	1
+Y involved in these X	0.153	0.153	0.153	1
+X that could send Y	0.153	0.153	0.153	1
+X , which has led to Y	0.153	0.153	0.153	1
+X bar Y	0.153	0.153	0.153	1
+Y would allow the X	0.153	0.153	0.153	1
+X could cause the Y	0.152	0.152	0.152	1
+Y were reported , but the X	0.152	0.152	0.152	1
+Y sold in the X	0.152	0.152	0.152	1
+X is illegal in Y	0.152	0.152	0.152	1
+X stipulate that Y	0.152	0.152	0.152	1
+X once controlled by Y	0.152	0.152	0.152	1
+Y produced in the X	0.152	0.152	0.152	1
+X also triggered Y	0.152	0.152	0.152	1
+X which governs Y	0.152	0.152	0.152	1
+X that do not require Y	0.152	0.152	0.152	1
+Y was caused by X	0.152	0.152	0.152	1
+X devoted exclusively to Y	0.152	0.152	0.152	1
+X smashed a Y	0.152	0.152	0.152	1
+X that supply Y	0.151	0.151	0.151	1
+Y , caused by X	0.151	0.151	0.151	1
+X and improving Y	0.151	0.151	0.151	1
+X fielded by Y	0.151	0.151	0.151	1
+X require the Y	0.151	0.151	0.151	1
+X came to power NN Y	0.151	0.151	0.151	1
+X ( ap ) responding to Y	0.151	0.151	0.151	1
+Y negotiated by the X	0.151	0.151	0.151	1
+X not to interfere in Y	0.151	0.151	0.151	1
+X of causing Y	0.151	0.151	0.151	1
+Y on avoiding double X	0.151	0.151	0.151	1
+X governing their Y	0.15	0.150	0.150	1
+Y 's u.n. ambassador said X	0.15	0.150	0.150	1
+Y in reporting X	0.15	0.150	0.150	1
+X that would have required Y	0.15	0.150	0.150	1
+X depends on the Y	0.15	0.150	0.150	1
+X could force Y	0.15	0.150	0.150	1
+X enhance Y	0.15	0.150	0.150	1
+X , can cause Y	0.15	0.150	0.150	1
+X in what remains of Y	0.15	0.150	0.150	1
+Y means higher X	0.15	0.150	0.150	1
+X to require all Y	0.15	0.150	0.150	1
+X and boost Y	0.15	0.150	0.150	1
+X , responded to the Y	0.15	0.150	0.150	1
+Y , promote X	0.15	0.150	0.150	1
+Y resulting from the X	0.15	0.150	0.150	1

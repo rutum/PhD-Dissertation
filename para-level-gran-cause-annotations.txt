@@ -1,0 +1,420 @@
+Index: 1
+PARA1: <b>Shooting</b> is the act of attempting to score points by throwing the ball through the basket.
+PARA1: The player faces the basket with feet about shoulder-width apart, knees slightly bent, and back straight. The
+player allows the ball to rest on the fingertips of the dominant hand (the shooting arm) slightly above the head, with
+the other hand supporting the side of the ball. To aim the ball, the player's elbow should be aligned vertically, with the
+forearm facing in the direction of the basket. The ball is shot by extending the bended knees and straightening the
+shooting arm; the ball rolls off the finger tips while the wrist completes a full downward flex motion. The shooting
+arm, fully extended with the wrist fully bent, and the fingers pointing downward, is held stationary for a moment
+following the release of the ball, this is known as a follow-through, which when properly done, enhances the accuracy
+of the shot. Generally, the non-shooting arm is used only to guide the shot, not to power it.
+
+
+
+Index: 2
+PARA1: After receiving his initial two cards, the player has four <b>standard options</b>: he can 'hit,' 'stand,' 'double
+down,' or 'split a pair.' Each option requires the use of a hand signal. At some casinos or tables, the player may have a
+fifth option called 'surrender.'
+PARA1: After receiving his first two cards and before any more are dealt to him, a player has the option to 'double
+down.' This means the player is allowed to double his initial bet in exchange for receiving only one more card from the
+dealer. The hand played consists of his original two cards plus one more from the dealer. To do this he moves a second
+bet equal to the first into the betting box next to his original bet. (If desired and allowed by casino rules, the player is
+usually allowed to 'double down for less,' placing an amount less than the original bet next to it in the betting box,
+although this is generally not a good idea as the player should only double in favorable situations but should then
+increase the bet as much as possible. Conversely, a player cannot 'double down for more' than the value of the original
+bet.)
+
+
+
+Index: 3
+PARA1: <b>Advancing the ball</b> in American football resembles the six-tackle rule and the play-the-ball in rugby
+league. The team that takes possession of the ball (the offense) has four attempts, called downs, in which to advance
+the ball at least 10 yards (9.1 m) toward their opponent's (the defense's) end zone. When the offense succeeds in
+gaining at least 10 yards, it gets a first down, meaning the team has another set of four downs to gain yet another 10
+yards or to score. If the offense fails to gain a first down (10 yards) after 4 downs, the other team gets possession of
+the ball at the point where the fourth down ended, beginning with their first down to advance the ball in the opposite
+direction.
+PARA1: Players can advance the ball in two ways: 1. By running with the ball, also known as rushing. 2. By throwing
+the ball to a teammate, known as a pass or as passing the football. If the pass is thrown down-field, it is known as a
+forward pass. The forward pass is a key factor distinguishing American and Canadian football from other football
+sports. The offense can throw the ball forward only once during a down and only from behind the line of scrimmage.
+However, the ball can be handed-off to another player or thrown, pitched, or tossed sideways or backwards (a lateral
+pass) at any time.
+
+
+Index: 4
+PARA1: Players in a <b>poker game</b> act in turn, in clockwise rotation (acting out of turn can negatively affect
+other players). When it is a player's turn to act, the first verbal declaration or action he takes binds him to his choice of
+action; this rule prevents a player from changing his action after seeing how other players react to his initial action.
+Until the first bet is made each player in turn may 'check,' which is to not place a bet, or 'open,' which is to make the
+first bet. After the first bet each player may 'fold,' which is to drop out of the hand losing any bets they have already
+made; 'call,' which is to match the highest bet so far made; or 'raise,' which is to increase the previous high bet.
+PARA1: The act of making the first voluntary bet in a betting round is called opening the round. On the first betting
+round, it is also called opening the pot, though in variants where blind bets are common, the blind bets 'open' and other
+players call and/or raise the 'big blind' bet. Some poker variations have special rules about opening a round that may
+not apply to other bets. For example, a game may have a betting structure that specifies different allowable amounts
+for opening than for other bets, or may require a player to hold certain cards (such as 'Jacks or better') to open.
+
+
+Index: 5
+PARA1: <b>A game</b> consists of a <b>sequence of points</b> played with the same player serving. A game is
+won by the first player to have won at least four points in total and at least two points more than the opponent. The
+running <b>score</b> of each game is described in a manner peculiar to tennis: scores from zero to three points are
+described as 'love', 'fifteen', 'thirty', and 'forty' respectively. If at least three points have been scored by each player, and
+the scores are equal, the score is 'deuce'. If at least three points have been scored by each side and a player has one
+more point than his opponent, the score of the game is 'advantage' for the player in the lead.
+PARA1: A point in tennis is the smallest subdivision of the match, the completion of which changes the score. A point
+can consist of a double fault by the server, in which case it is won by the receiver; otherwise, it begins with a legal
+serve by one side's server to the receiver on the other, and continues until one side fails to make a legal return to the
+other, losing the point. Four points win a game, counted as 15 (1 point), 30 (2 points), 40 (3 points). A game must be
+won by at least two points.
+
+
+Index: 6
+PARA1: The objective of <b>rebounding</b> is to successfully gain possession of the basketball after a missed field
+goal or free throw, as it rebounds from the hoop or backboard. This plays a major role in the game, as most
+possessions end when a team misses a shot. There are two categories of rebounds: offensive rebounds, in which the
+ball is recovered by the offensive side and does not change possession, and defensive rebounds, in which the defending
+team gains possession of the loose ball. The majority of rebounds are defensive, as the team on defense tends to be in
+better position to recover missed shots.
+PARA1: A pass is a method of moving the ball between players. Most passes are accompanied by a step forward to
+increase power and are followed through with the hands to ensure accuracy. A staple pass is the chest pass. The ball is
+passed directly from the passer's chest to the receiver's chest. A proper chest pass involves an outward snap of the
+thumbs to add velocity and leaves the defence little time to react.
+
+
+Index: 7
+PARA1: After receiving his first two cards and before any more are dealt to him, a player has the option to <b>'double
+down.'</b> This means the player is allowed to double his initial bet in exchange for receiving only one more card
+from the dealer. The hand played consists of his original two cards plus one more from the dealer. To do this he moves
+a second bet equal to the first into the betting box next to his original bet. (If desired and allowed by casino rules, the
+player is usually allowed to 'double down for less,' placing an amount less than the original bet next to it in the betting
+box, although this is generally not a good idea as the player should only double in favorable situations but should then
+increase the bet as much as possible. Conversely, a player cannot 'double down for more' than the value of the original
+bet.)
+PARA1: Split a pair: If his first two cards are a 'pair,' meaning two cards of the same value, the player can 'split the
+pair.' To do this, he moves a second bet equal to the first into an area outside the betting box of the original bet. The
+dealer separates the cards to create two hands, placing one bet with each hand. The player then plays two separate
+hands.
+
+
+Index: 8
+PARA1: <b>A touchdown (TD)</b> is worth 6 points. It is scored when a player runs the ball into or catches a pass in
+his opponent's end zone. A touchdown is analogous to a try in rugby. Unlike rugby, a player does not have to touch
+the ball to the ground to score; a touchdown is scored any time a player has possession of the ball while the ball is on
+or beyond the opponents' goal line (or the plane above it).
+PARA1: A field goal (FG) is worth 3 points, and it is scored by kicking the ball over the crossbar and through the goal
+posts (uprights). Field goals may be placekicked (kicked when the ball is held vertically against the ground by a
+teammate) or drop-kicked (extremely uncommon in the modern game, with only two successes in sixty-plus years in
+the NFL). A field goal is usually attempted on fourth down instead of a punt when the ball is close to the opponent's
+goal line, or, when there is little or no time left to otherwise score.
+
+
+Index: 9
+PARA1: One or more players are usually required to make forced bets, usually either an ante or a blind bet (sometimes
+both). The dealer shuffles the cards, the player on the chair to their right cuts, and the dealer deals the appropriate
+number of cards to the players one at a time, beginning with the player to their left. Cards may be dealt either face-up
+or face-down, depending on the variant of <b>poker</b> being played. After the initial deal, the first of what may be
+several betting rounds begins. Between rounds, the players' hands develop in some way, often by being dealt additional
+cards or replacing cards previously dealt. At the end of each round, all bets are gathered into the central pot.
+PARA1: At any time during a betting round, if one player bets and no opponents choose to call (match) the bet and
+instead fold, the hand ends immediately, the bettor is awarded the pot, no cards are required to be shown, and the next
+hand begins. This is what makes bluffing possible. Bluffing is a primary feature of poker, one that distinguishes it
+from other vying games and from other games that make use of poker hand rankings.
+
+
+Index: 10
+PARA1: <b>A game point</b> occurs in tennis whenever the player who is in the lead in the game needs only one
+more point to win the game. The terminology is extended to sets (set point), matches (match point), and even
+championships (championship point). For example, if the player who is serving has a score of 40-love, the player has a
+triple game point (triple set point, etc.) as the player has three consecutive chances to win the game. Game points, set
+points, and match points are not part of official scoring and are not announced by the chair umpire in tournament play.
+PARA1: A break point occurs if the receiver, not the server, has a game point. Break points are of particular
+importance because serving is generally advantageous. A receiver who has two (score of 15-40) or three (score of
+love-40) consecutive chances to win the game has double break point or triple break point, respectively.
+
+
+Index: 11
+PARA1: In Washington today, the Federal Aviation Administration released air traffic control tapes from the night the
+TWA Flight eight hundred <b>went down</b>. There's nothing new on why the plane <b>exploded</b> , but you
+cannot miss the moment. ABC's Lisa Stark has more.
+PARA1: There was no hint of trouble in the last conversation between controllers and TWA pilot Steven Snyder TWA
+eight hundred climb maintain one five thousand. TWA's eight hundred heavy climb and maintain one five thousand
+leavin- three thousand. But a minute and a half later, a pilot from a nearby flight calls in. Ah, we just saw an
+explosion up ahead of us here about sixteen thousand feet or something like that. It just went down.
+
+
+Index: 12
+PARA1: Mikhail Kalashnikov is the Russian who <b>gave his name</b> to the world's most widely wielded weapon,
+according to a news agency report Friday.
+PARA1: Kalashnikov designed the AK-47 automatic rifle, famed for its reliability and effectiveness. Together with its
+derivatives, the Kalashnikov rifle has been used by the police and armies of 55 countries and an assortment of
+guerrillas, terrorists and just plain thugs around the globe. Seventy-five million copies of the rifle have been built since
+it entered production in February 1947, making it history's most widely distributed weapon.
+
+
+Index: 13
+PARA1: An American leader of a U.N. weapons inspection team <b>resumed work</b> in Iraq Friday, nearly two
+months after his team was effectively blocked.
+PARA1: Scott Ritter led his team on a 10-hour tour of three suspected weapons sites classified as ``sensitive'' by the
+Iraqi authorities, U.N. spokesman Alan Dacey said. ``All sites were to the satisfaction of the inspection team and with
+full cooperation of Iraqi authorities,'' Dacey said. ``All sites were inspected to the satisfaction of the inspection team
+and with full cooperation of Iraqi authorities,'' Dacey said.
+
+
+Index: 14
+PARA1: A phony address listed on disclosure forms for a French donor <b>will cost</b> the far-right German
+People's Union about 549,000 marks (dlrs 305,000), parliament said Friday.
+PARA1: Parliamentary president Rita Suessmuth said the People's Union correctly listed Jacques de Mathan as having
+donated about 274,500 marks in 1995, but gave a false address for him. German law requires parties to publish the
+name and address of anyone who donates more than 20,000 marks (dlrs 1,000)."The anti-foreigner party said it wanted
+to protect the donor from possible attacks.
+
+
+Index: 15
+PARA1: Diplomacy appears to be <b>making headway</b> in resolving the united nation's standoff with Iraq. A UN
+spokesman says UN secretary general Kofi Annan is <b>on the verge of a breakthrough</b>, but added it's not done
+yet.
+PARA1: Annan wrapped up a three hour meeting with Iraqi president Saddam Hussein in Baghdad today. He's
+expected to meet with Iraqi deputy prime minister Tariq Aziz later this afternoon. One major sticking point has been
+Iraq's proposal to open it's presidential sites for no more than sixty days. The UN security council insists any deal must
+allow UN inspectors unrestricted access to all suspected weapons sites.
+
+
+Index: 16
+PARA1: Despite the recent possibility of military conflict with Iraq, <b>oil prices have been falling</b>, that's
+because of a worldwide glut of oil. Now with a diplomatic solution to the crisis seemingly at hand, get set for oil
+prices from the Brent north sea variety to light swede crude to fall further.
+PARA1: Oil prices have come down from the middle of October from a twenty-two dollar barrel level down to the
+fourteen dollars we 're seeing today. that 's built up a heck of a momentum and that momentum will look to increase.
+ah next up is that thirteen dollar a barrel level we saw in the winter of nineteen ninety-four. Weakened oil prices have
+already made life easier for motorists at the gas pump. Gas prices fell nearly two cents a gallon over the last two
+weeks. That according to the Lundberg survey of ten thousand gas stations nationwide.
+
+
+Index: 17
+PARA1: New evidence is suggesting that a <b>series of bombings</b> in Atalanta and last month's explosion at an
+Alabama women's clinic might be related.
+PARA1: Atlanta nineteen ninety-six. A bomb blast shocks the Olympic games. One person is killed. January nineteen
+ninety-seven. Atlanta again. This time a bomb at an abortion clinic. More people are hurt. And just last month, an off
+duty policeman is killed when a bomb explodes at another abortion clinic. Location, Birmingham, Alabama.
+
+
+Index: 18
+PARA1: The Pentagon said today it will re-examine the question are the remains inside the Tomb of the Unknown
+from the Vietnam War, in fact, known? CBS News first reported last night that the tomb may contain the remains of
+Air Force pilot Michael Blassie.
+PARA1: There was a suspicion the body was Blassie because his uniform and ID card were found near the body in
+Vietnam. But subsequently, they were lost. Blassie's mother now wants the remains in the tomb tested for DNA.
+
+
+Index: 19
+PARA1: The economy <b>created jobs</b> at a surprisingly robust pace in January. The government reported on
+Friday, evidence that America's economic stamina has withstood any disruptions caused so far by the financial tumult
+in Asia.
+PARA1: The Bureau of Labor Statistics said the economy added 358,000 jobs last month, far above the 235,000
+forecast by economists. It was the third consecutive month that job generation has been exceptionally strong. With
+growing opportunities for work drawing more people into the labor force, the unemployment rate remained at 4.7
+percent last month, just a notch above its quarter-century low. The demand for workers also led employers to raise
+wages again last month. Average hourly earnings of production and nonsupervisory employees rose 4 cents, to $12.51.
+The gain left wages 3.8 percent higher than a year earlier, extending a trend that has given back to workers some of the
+earning power they lost.
+
+
+Index: 20
+PARA1: A Brooklyn woman who was watching her clothes dry in a laundromat was <b>killed</b> Thursday
+evening when two would-be robbers emptied their pistols into the store, the police said.
+PARA1: Ms. Sanders was hit several times and was pronounced dead at the scene. The other customers fled, and the
+police said it did not appear that anyone else was injured. The men took no money from their victim or from the
+establishment, said Detective Joseph Pentangelo, a Police Department spokesman.
+
+
+Index: 21
+PARA1: Former savings and loan chief, Charles Keating, is <b>facing more legal troubles</b> in California. A federal
+appeals court has reinstated his state convictions for securities fraud.
+PARA1: In nineteen ninety-one Charles Keating was convicted in state court of helping to defraud thousands of
+investors who bought high risk junk bonds sold by Keating's employees at Lincoln savings and loan. The bonds
+became worthless when the bankrupt thrift was seized by government regulators. Keating's convictions were thrown
+out in nineteen ninety-six on a technicality. And on that basis Keating was released from prison before he was eligible
+for parole. Now the ninth US circuit court of appeals has ruled that the original appeal was flawed since it brought up
+issues that had not been raised before. That means the convictions stand, a ruling likely to send Keating's lawyers back
+to state court where they must start over with a new appeal.
+
+
+Index: 22
+PARA1: Officials in California are warning residents that oncoming rains will cause dangerous and unpredictable
+<b>landslides</b>.
+PARA1: Experts say the ground is so saturated it cannot absorb any more water. So that means soil will fall off in
+chunks and destroy anything in its path. In Los Angeles that lesson was brought home today when tons of earth
+cascaded down a hillside, ripping two houses from their foundations. No one was hurt, but firefighters ordered the
+evacuation of nearby homes and said they'll monitor the shifting ground. In the northern California town of Rio Nido,
+officials say a football field sized slab of hillside could still break loose at any time and destroy an entire
+neighborhood. And in San Francisco, a mansion overlooking the Pacific Ocean and the Golden Gate Bridge is
+slipping toward the sea. Forecasters say the picture will get worse because more rains are on the way. For NPR news,
+I'm Auncil Martinez reporting.
+
+
+Index: 23
+PARA1: Some 1,500 ethnic Albanians <b>marched</b> Sunday in downtown Istanbul, burning Serbian flags to
+protest the killings of ethnic Albanians by Serb police in southern Serb Kosovo province.
+PARA1: The police barred the crowd from reaching the Yugoslavian consulate in downtown Istanbul, but allowed
+them to demonstrate on nearby streets.
+
+
+Index: 24
+PARA1: We are here this week to witness the <b>rendezvous</b> that Fidel Castro and the Pope are having with
+history. We are here because what happens on this island will also have an impact on the United States. Everything
+that happens in Cuba gets America's attention.
+PARA1: Incidentally, we just show up to do the broadcast, and Cubans want to know what we 're going to tell
+Americans, in many cases, what their relatives in the United States are going to hear. Well, this is the eve of the
+Pope's visit to one of the last bastions of Communism anywhere in the world, and it is already causing enormous
+expectations. In Revolution Square, they put up a giant cross today. And right across from the Cuban revolutionary
+icon Che Guevara, they now have a giant portrait of Jesus. Above it in Spanish, Jesus, in you we believe.
+
+
+Index: 25
+PARA1: Yesterday New York governor George Pataki <b>toured</b> five counties that have been declared under a
+state of emergency. He added one more today.
+PARA1: Helicopters are flying over northern New York today trying to locate people stranded without food, heat or
+medicine.
+
+
+Index: 26
+PARA1: A new Essex County task force began <b>delving</b> Thursday into the slayings of 14 black women over
+the last five years in the Newark area, as law-enforcement officials acknowledged that they needed to work harder to
+solve the cases of murdered women.
+PARA1: The police and prosecutors said they had identified different suspects in six of the cases and had yet to find
+any pattern linking the killings or the victims, several of whom were believed to be prostitutes.
+
+
+Index: 27
+PARA1: The US is <b>bolstering its military presence</b> in the gulf, as President Clinton discussed the Iraq crisis
+with the one ally who has backed his threat of force, British prime minister Tony Blair.
+PARA1: President Clinton rolled out the red carpet for prime minister Blair, welcoming him not only as a close ally,
+but a close friend. Posing for photographers with Clinton, Blair pledged to stand united with the president against Iraq,
+warning Saddam Hussein that the threat of force is real.
+
+
+Index: 28
+PARA1: The day had arrived, after several attempts, this time it was only to who where going <b>to get to the
+confluence point</b>. A group friends in motorcycles joined us up to Cambalaya river.
+PARA1: We left at 6:00am of a rather cloudy day. The road up the Sama hill was foggy, this made the ascent difficult,
+specially for the motorcycles. Finaly, at 3880 meters we arrived into Iscayachi where we stoped for coffe before
+moving on. Half an our latter we where going down towards the Paicho valley, known for nut and peach production;
+we corssed the whole valley until we arrived at Huayaco Farm, from there we detoured on El Salado ravine which lead
+us into the Camblaya river. We got there by 11:00 am. Very satisfied of having accomplished the first objective of the
+expedition we took a rest and enjoyed the scenery.
+
+
+Index: 29
+PARA1: With four days up my sleeve over the Chinese National Day holiday, I chose <b>to try for this
+confluence</b>, expecting that it might prove a bit of a challenge. It is located in the extreme southwest of Hunan
+Province, in a fairly remote, mountainous and densely forested region of Jiangyong County, in a small, nipple-shaped
+piece that protrudes into neighbouring Guangxi Autonomous Region. It is actually not all that far from Guilin, the latter
+being a must-see tourist destination, famous for its pointy mountains.""
+PARA1: To get to the confluence, I caught the Hong Kong-to-Shanghai intercity train on Friday afternoon, getting off
+in Chenzhou where I stayed the night, then spent most of Saturday travelling east by road on a succession of three
+buses. Although the highways were in pretty reasonable condition, we were nonetheless forced to brake suddenly and
+frequently in order to avoid running over meandering dogs. They were very prevalent, and treated the road as though it
+were their own private recreation ground, totally oblivious to the heavy vehicles thundering down upon them.
+
+
+Index: 30
+PARA1: Having been granted three weeks' leave by my very accommodating boss, I was able <b>to embark</b> on
+another serious Chinese confluence hunt, this time with the rather ambitious aim of finishing off both Hunan Province
+(11 confluences remaining out of 18) and Chongqing Municipality (4 confluences remaining out of 9). I was very
+pleased that my colleague and original confluencing mentor Tony could accompany me, although for only the first four
+days, coinciding with the four-day Easter long weekend.
+PARA1: Tony and I met up at Hong Kong's Hung Hom railway station in the afternoon, from where we planned to
+catch the 3 p.m. Shanghai-bound cross-border train. The severe acute respiratory syndrome (SARS) epidemic was at its
+peak, both in Hong Kong and in mainland China, and most of the waiting passengers were wearing face masks for
+protection. Our train left on time, and we enjoyed the luxury of our modern hard-sleeper berths for the eight-hour
+journey to the south of Hunan Province. We disembarked in the city of Chenzhou at 11 p.m., and immediately checked
+into the Tianhu Hotel, conveniently located right next to the Chenzhou Central Bus Station. Convenient, that is, if
+that's where your bus leaves from. We subsequently discovered that ours didn't.
+
+
+Index: 31
+PARA1: Our objective, 31N 105E, is about 100 km east of the center of Chengdu. Road distance is probable closer to
+120 km. While I would prefer to cycle to these confluence points, the distance is too great and time too short, so we
+cheated a bit (a big bit, actually) and took a bus.
+PARA1: Larry met me at my house a 7:05, ten minutes early he said to offset the last time when he was ten minutes
+late. 'Now I’m even,' he said with a laugh. Godspeed agreed to meet at the bus station on the north side of town, closer
+to where he lived. On the ride there, Larry commented that he enjoyed cycling early in the morning before the bike
+traffic in Chengdu gets heavy and slows him down. It was still dark when we met, Larry’s time of day.
+
+
+Index: 32
+PARA1: This is the first of a three-confluence hunt trip in northeastern Sichuan province I undertook solo in late
+August 2003. Living in China for the past five years and operating Bike China Adventures bike touring company, my
+schedule always seems to be in flux making it difficult to plan things much in advance. So while I had hoped that I
+would have four days <b>to do this trip</b>, I did not know for sure until the day before. This poses problems when
+traveling by train as tickets go on sale four days in advance. When I had stopped by one of the many train ticket
+agencies looking for a ticket to Wanyuan, the agent said she did not have any for the time and date I wanted. After
+seeing my dejected look, she added that I might be able to get one at the North Train Station. It was on the other side
+of the city, but it was my only choice.
+PARA1: The North Train Station is like those in most of the big Chinese cities; a huge sprawling affair teeming with
+people crowded into endless lines that fill from the front. In China cutting line or jumping the queue is a fine art.
+Looking at the 50 people in front on me and calculating the amount of time it would take to get to the front almost
+made me give up. I spotted a sign indicating another line was for foreigners and soldiers, and joined that one, though it
+was just as long as the rest. However, a few minutes later one of the station attendants came by and asked me where I
+was going. I told her Wanyuan and I needed a ticket on tomorrow's 1062 train. She disappeared for a while and when
+she returned she said I could get a hard seat ticket. It was not a hard sleeper, but better than nothing.
+
+
+Index: 33
+PARA1: After a failed intend to reach the confluence 20°S 63°W, we crossed several kilometers knowing many
+places, leaving Charagua until arriving at Monteagudo in the department of Chuquisaca. In this population my father
+and Javier were waiting for us, and we all together would continue to our next objective.
+PARA1: On the next day we left Monteagudo (19°48'11.13 ' S and 63°57'18.42 ' W), at 6:15 A.M. and after some
+preparations we took the way to Huacareta, toward South. After 30 kilometers approximately, we had to enter by a
+creek towards a community named Vallecito, the access is not shown in the Google Earth and in maps of IGM it
+seems to be on the creek. Luckily a way exists which we could accede relatively easy, we crossed 2 kilometers until
+we arrived at 600 meters of the confluence.
+
+
+Index: 34
+PARA1: In order to reach this confluence, I set my base camp in San Pedro de Atacama, a small town around 90km
+east from Calama (1400km north-east from Santiago), II region in Chile.
+PARA1: I started a research about how to reach this point around a month earlier. Using Google earth, I found a trail
+that followed a line of electric towers and that was following the right direction. Finally, I found out that the trail I had
+found allowed me to reach as close as 5km from the confluence. In summary, I rented a 4x4 vehicle from Euro Rent a
+Car (In San Pedro) that offered me a very reasonable price considering that they saved me to travel back to Calama (a
+bigger city) to get it. I found very valuable information also from Javier, an Argentinean guy that settled in San Pedro
+around 10 years ago. He runs a pub in Tocopilla street between Caracoles and Padre Le Paige
+
+
+Index: 35
+PARA1: This summer I had to drive from Chengdu to Panzhihua. Thankfully this time I took a look at Google Earth
+before I left. I found that 27N 102E was not too far from the road where I would be traveling. After finishing up
+business in Panzhihua, I was able to drive to the town of MiYi, which is the closest large town to this confluence. Miyi
+is pretty impressive, as countryside towns go - it seems that the entire town has been built in the last 2 years! There are
+hundreds of apartments and storefronts awaiting people to move in and start to make this area prosperous.
+PARA1: The next morning I set out pretty early for the confluence point. My Sichuan map showed a road heading
+right towards where the confluence should be. It has recently been rebuilt as well - perfectly wide and smooth
+concrete, and later, as the road climbs up the forested mountains it turns to smooth asphalt. The whole time there are
+locals tending to their fruit trees and rice fields.
+
+
+Index: 36
+PARA1: The alarm went off at 6 a.m., and by 6:56 a.m. I was on a train heading north from Changsha to Miluo. Miluo
+is about 20 kilometres south of the confluence, and I was planning to go by road from there. But once on the train, I
+discovered that it would also stop at the tiny station of Taolin, less than 12 kilometres east of the confluence. So I
+upgraded my ticket on the train, and got off at Taolin instead. I later learned that I had been quite lucky, because this
+was the *only* train that stopped at Taolin each day.
+PARA1: It was now 8:40 a.m. What followed was a truly bone-shattering, hour-long ride in the back of a small, three-
+wheeled truck converted to passenger use. Conversion to passenger use meant the installation of two wooden planks,
+which were extremely uncomfortable to sit on as the truck bounced its way along the dirt road. My bum was sore for
+days afterwards!
+
+
+Index: 37
+PARA1: After having rained the entire time I had been out walking, as soon as I boarded the boat for the three-hour
+trip from Pingkou to Anhua, the sun came out! The journey was, as a result, most pleasant, but I couldn't help
+lamenting how much more enjoyable the walk to and from the confluence that morning would have been had the sun
+been shining then. Unfortunately, this pattern of rain-sun-rain-sun, with the rain making its appearance at the most
+inopportune moments, was to repeat itself several more times before my confluence expedition was over.
+PARA1: By 7 p.m., I had checked into the Anhua Hotel, the best hotel in Anhua, only to discover later that there was
+no hot water for bathing, due to maintenance work that was being carried out. The night before in Pingkou, there had
+been no hot water on account of the power blackout. Such is life.
+

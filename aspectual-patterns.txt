@@ -1,0 +1,320 @@
+X , scheduled for Y	0.170333333333333	0.511	0.183	3
+X scheduled to begin on Y	0.169666666666667	0.509	0.187	3
+X , which starts on Y	0.165333333333333	0.496	0.178	3
+X , which starts Y	0.165	0.495	0.176	3
+X concludes Y	0.216	0.432	0.226	2
+X resume Y	0.201	0.402	0.216	2
+X starts visit to Y	0.1985	0.397	0.229	2
+X , which begins Y	0.196	0.392	0.217	2
+X starting on Y	0.1935	0.387	0.223	2
+X begin on Y	0.189	0.378	0.223	2
+X end on Y	0.1835	0.367	0.191	2
+X begin Y	0.1785	0.357	0.205	2
+X for the week ending Y	0.354	0.354	0.354	1
+X had begun Y	0.175	0.35	0.192	2
+Y NN ( tabulate under X	0.348	0.348	0.348	1
+X kicks off Y	0.169	0.338	0.178	2
+X opens Y	0.1665	0.333	0.169	2
+X will begin Y	0.166	0.332	0.179	2
+X , which start Y	0.165	0.33	0.173	2
+X ending on Y	0.328	0.328	0.328	1
+X that starts Y	0.1635	0.327	0.176	2
+X ( moved on tuesday , Y	0.326	0.326	0.326	1
+X , which begins on Y	0.163	0.326	0.174	2
+X ending last Y	0.325	0.325	0.325	1
+X to continue Y	0.1615	0.323	0.164	2
+X ( moved on monday , Y	0.321	0.321	0.321	1
+X meet in Y	0.1605	0.321	0.166	2
+X will be held in Y	0.1605	0.321	0.168	2
+X , which ends Y	0.1575	0.315	0.164	2
+Y NN, compared with a X	0.315	0.315	0.315	1
+X sent on wednesday , Y	0.312	0.312	0.312	1
+Y NN rose NN X	0.31	0.310	0.310	1
+Y NN, moved X	0.31	0.310	0.310	1
+X averaged N.NN percent on Y	0.306	0.306	0.306	1
+Y N, moved X	0.302	0.302	0.302	1
+X sent on monday , Y	0.3	0.300	0.300	1
+X beginning NN Y	0.295	0.295	0.295	1
+X fall berlin , Y	0.293	0.293	0.293	1
+Y NN, will move X	0.292	0.292	0.292	1
+X end mixed london , Y	0.292	0.292	0.292	1
+X ( moved on friday , Y	0.291	0.291	0.291	1
+X , for the period ended Y	0.289	0.289	0.289	1
+Y NN increased NN X	0.289	0.289	0.289	1
+X mixed new york , Y	0.289	0.289	0.289	1
+X is for release on Y	0.289	0.289	0.289	1
+Y N of the indicated X	0.284	0.284	0.284	1
+Y NN, and begins its X	0.283	0.283	0.283	1
+X , which will be dated Y	0.281	0.281	0.281	1
+X begins Y	0.28	0.280	0.280	1
+X starts Y	0.28	0.280	0.280	1
+X end higher london , Y	0.28	0.280	0.280	1
+Y NN, NNNN, and begins its X	0.28	0.280	0.280	1
+X -- year ended Y	0.28	0.280	0.280	1
+X sent on sunday , Y	0.279	0.279	0.279	1
+X ( moved on sunday , Y	0.279	0.279	0.279	1
+X end lower london , Y	0.278	0.278	0.278	1
+X ( moved on wednesday , Y	0.277	0.277	0.277	1
+X ( moved on thursday , Y	0.277	0.277	0.277	1
+X sent on thursday , Y	0.277	0.277	0.277	1
+X , for the quarter ended Y	0.276	0.276	0.276	1
+Y NN rose N X	0.275	0.275	0.275	1
+X privately placed notes due Y	0.275	0.275	0.275	1
+X ( moved thursday , Y	0.274	0.274	0.274	1
+X rise tokyo , Y	0.273	0.273	0.273	1
+X , for the week ending Y	0.273	0.273	0.273	1
+X that expires Y	0.273	0.273	0.273	1
+Y NN to approve the X	0.272	0.272	0.272	1
+Y NNNN, and begins its X	0.271	0.271	0.271	1
+X end higher berlin , Y	0.271	0.271	0.271	1
+X -- elected on Y	0.271	0.271	0.271	1
+Y NN -- here are the X	0.27	0.270	0.270	1
+X says united nations , Y	0.269	0.269	0.269	1
+Y NN cease -- X	0.269	0.269	0.269	1
+X closes weaker canberra , Y	0.266	0.266	0.266	1
+X four -- game winning Y	0.266	0.266	0.266	1
+X sent on friday , Y	0.265	0.265	0.265	1
+X for its second quarter ended Y	0.265	0.265	0.265	1
+Y N, NNNN, are moving X	0.265	0.265	0.265	1
+X is saturday , Y	0.263	0.263	0.263	1
+X in the three months ending Y	0.262	0.262	0.262	1
+X of NNNN.NN set Y	0.262	0.262	0.262	1
+X reported erroneously on Y	0.261	0.261	0.261	1
+X three -- game winning Y	0.261	0.261	0.261	1
+Y NN, NNNN, killing NNN X	0.261	0.261	0.261	1
+X closes higher canberra , Y	0.261	0.261	0.261	1
+X ) today is friday , Y	0.26	0.260	0.260	1
+X is friday , Y	0.259	0.259	0.259	1
+X closes up amman , Y	0.259	0.259	0.259	1
+X says moscow , Y	0.259	0.259	0.259	1
+X end higher manila , Y	0.258	0.258	0.258	1
+Y NN, compared with a net X	0.258	0.258	0.258	1
+X lasted from Y	0.258	0.258	0.258	1
+X , which will end on Y	0.258	0.258	0.258	1
+Y NN to review X	0.257	0.257	0.257	1
+X -- taking hong kong , Y	0.257	0.257	0.257	1
+X , in the quarter ended Y	0.256	0.256	0.256	1
+X rose in the week ended Y	0.255	0.255	0.255	1
+Y NN today is X	0.255	0.255	0.255	1
+Y NN rose to NN X	0.254	0.254	0.254	1
+X -- taking tokyo , Y	0.254	0.254	0.254	1
+X are dated Y	0.254	0.254	0.254	1
+X ) today is sunday , Y	0.254	0.254	0.254	1
+X described below moved monday , Y	0.253	0.253	0.253	1
+Y NN, NNNN, killing NN X	0.253	0.253	0.253	1
+Y NN, compared with net X	0.253	0.253	0.253	1
+X end mixed berlin , Y	0.253	0.253	0.253	1
+X in the first half ended Y	0.253	0.253	0.253	1
+X ( moved wednesday , Y	0.253	0.253	0.253	1
+X sent on saturday , Y	0.252	0.252	0.252	1
+X must be purchased by Y	0.252	0.252	0.252	1
+X ) today is monday , Y	0.251	0.251	0.251	1
+X closes down amman , Y	0.251	0.251	0.251	1
+Y NN fell NN X	0.251	0.251	0.251	1
+X highlights during the week of Y	0.251	0.251	0.251	1
+X end lower manila , Y	0.251	0.251	0.251	1
+X ) today is wednesday , Y	0.249	0.249	0.249	1
+X sent on tuesday , Y	0.249	0.249	0.249	1
+X closes stronger canberra , Y	0.249	0.249	0.249	1
+X says washington , Y	0.247	0.247	0.247	1
+X , which expired on Y	0.247	0.247	0.247	1
+X for the third quarter ended Y	0.247	0.247	0.247	1
+X for the quarter ending Y	0.247	0.247	0.247	1
+Y NN closing X	0.246	0.246	0.246	1
+X in the third quarter ended Y	0.246	0.246	0.246	1
+X rise berlin , Y	0.245	0.245	0.245	1
+Y N cease -- X	0.243	0.243	0.243	1
+X ) undated -- Y	0.243	0.243	0.243	1
+X NN -- game winning Y	0.243	0.243	0.243	1
+X beginning Y	0.234	0.234	0.234	1
+X five -- game winning Y	0.228	0.228	0.228	1
+X second -- leading Y	0.223	0.223	0.223	1
+X have begun Y	0.222	0.222	0.222	1
+Y , snapping the X	0.221	0.221	0.221	1
+X agree to end Y	0.219	0.219	0.219	1
+X launched in Y	0.219	0.219	0.219	1
+X resumed Y	0.214	0.214	0.214	1
+X have been on strike since Y	0.213	0.213	0.213	1
+X , which began Y	0.21	0.210	0.210	1
+X would begin Y	0.207	0.207	0.207	1
+X which begins on Y	0.207	0.207	0.207	1
+X seven -- game winning Y	0.207	0.207	0.207	1
+X start Y	0.205	0.205	0.205	1
+X continue Y	0.204	0.204	0.204	1
+X , starting Y	0.204	0.204	0.204	1
+X to be held in Y	0.203	0.203	0.203	1
+X that began Y	0.203	0.203	0.203	1
+X , began Y	0.202	0.202	0.202	1
+X losing Y	0.198	0.198	0.198	1
+X staged a two -- Y	0.195	0.195	0.195	1
+X eight -- game winning Y	0.195	0.195	0.195	1
+X opening of Y	0.192	0.192	0.192	1
+X NN -- game home winning Y	0.192	0.192	0.192	1
+X staging a Y	0.191	0.191	0.191	1
+X began on Y	0.191	0.191	0.191	1
+X to start Y	0.189	0.189	0.189	1
+X starting here on Y	0.189	0.189	0.189	1
+Y )  striking X	0.188	0.188	0.188	1
+X staged a four -- Y	0.188	0.188	0.188	1
+X are scheduled to resume Y	0.186	0.186	0.186	1
+X , which concludes Y	0.186	0.186	0.186	1
+X announces Y	0.184	0.184	0.184	1
+X meeting in Y	0.184	0.184	0.184	1
+X , which end Y	0.183	0.183	0.183	1
+X meeting Y	0.183	0.183	0.183	1
+X is to be held Y	0.183	0.183	0.183	1
+X is set to begin Y	0.182	0.182	0.182	1
+X arrives in Y	0.182	0.182	0.182	1
+Y and ended the X	0.182	0.182	0.182	1
+Y NN start of the X	0.181	0.181	0.181	1
+X in arranging Y	0.181	0.181	0.181	1
+X , which kicks off Y	0.181	0.181	0.181	1
+X nine -- game winning Y	0.18	0.180	0.180	1
+X started Y	0.18	0.180	0.180	1
+X that start Y	0.18	0.180	0.180	1
+X which starts Y	0.179	0.179	0.179	1
+X opens in Y	0.178	0.178	0.178	1
+Y damped X	0.177	0.177	0.177	1
+X who staged a Y	0.177	0.177	0.177	1
+X pitching Y	0.176	0.176	0.176	1
+X is scheduled to begin Y	0.176	0.176	0.176	1
+X marched in Y	0.176	0.176	0.176	1
+X which begin Y	0.175	0.175	0.175	1
+Y snapped the X	0.175	0.175	0.175	1
+X begins next Y	0.175	0.175	0.175	1
+X ended their Y	0.175	0.175	0.175	1
+X , which is scheduled for Y	0.175	0.175	0.175	1
+X three -- game losing Y	0.174	0.174	0.174	1
+X , due to start on Y	0.173	0.173	0.173	1
+X begins on Y	0.173	0.173	0.173	1
+X slated for Y	0.173	0.173	0.173	1
+X to end their Y	0.173	0.173	0.173	1
+X is scheduled to start Y	0.171	0.171	0.171	1
+X launches Y	0.171	0.171	0.171	1
+X for the second quarter ended Y	0.171	0.171	0.171	1
+X have ended in Y	0.171	0.171	0.171	1
+X , which begin on Y	0.171	0.171	0.171	1
+X , which begins here Y	0.171	0.171	0.171	1
+X general manager , said Y	0.17	0.170	0.170	1
+X begin a Y	0.17	0.170	0.170	1
+X starting here Y	0.169	0.169	0.169	1
+X , which began on Y	0.169	0.169	0.169	1
+X bullpen Y	0.168	0.168	0.168	1
+X , including a meeting with Y	0.168	0.168	0.168	1
+X suspended their Y	0.168	0.168	0.168	1
+Y held the X	0.168	0.168	0.168	1
+Y will start for the X	0.167	0.167	0.167	1
+X to be held Y	0.167	0.167	0.167	1
+X is due to begin Y	0.167	0.167	0.167	1
+X and begin Y	0.167	0.167	0.167	1
+X meeting ends in Y	0.167	0.167	0.167	1
+Y , attending the X	0.166	0.166	0.166	1
+X starts next Y	0.166	0.166	0.166	1
+Y ) striking X	0.166	0.166	0.166	1
+X commences Y	0.166	0.166	0.166	1
+X threaten Y	0.166	0.166	0.166	1
+X delayed the start of the Y	0.166	0.166	0.166	1
+X first began Y	0.165	0.165	0.165	1
+Y to return to private X	0.165	0.165	0.165	1
+X , which ended Y	0.165	0.165	0.165	1
+X staged a NN -- Y	0.164	0.164	0.164	1
+X are to begin Y	0.164	0.164	0.164	1
+X that begin Y	0.164	0.164	0.164	1
+X concludes on Y	0.164	0.164	0.164	1
+Y to attend the X	0.163	0.163	0.163	1
+X that begins on Y	0.163	0.163	0.163	1
+X have already started Y	0.163	0.163	0.163	1
+X , which starts in Y	0.163	0.163	0.163	1
+X to conclude their Y	0.163	0.163	0.163	1
+X gives priority to Y	0.163	0.163	0.163	1
+X urge Y	0.163	0.163	0.163	1
+X were to resume Y	0.163	0.163	0.163	1
+X continues Y	0.163	0.163	0.163	1
+X will be held from Y	0.163	0.163	0.163	1
+X has approved the Y	0.162	0.162	0.162	1
+X step up Y	0.162	0.162	0.162	1
+X will be known Y	0.162	0.162	0.162	1
+X resumed their Y	0.161	0.161	0.161	1
+X will be announced on Y	0.161	0.161	0.161	1
+Y ( xinhua ) visiting X	0.161	0.161	0.161	1
+X which started on Y	0.161	0.161	0.161	1
+X to attend Y	0.16	0.160	0.160	1
+X are continuing their Y	0.159	0.159	0.159	1
+X opened friday in Y	0.159	0.159	0.159	1
+X strike at Y	0.159	0.159	0.159	1
+X start in Y	0.159	0.159	0.159	1
+X begins at N Y	0.159	0.159	0.159	1
+X set to begin Y	0.158	0.158	0.158	1
+X get under Y	0.158	0.158	0.158	1
+X have made Y	0.158	0.158	0.158	1
+X , beginning on Y	0.158	0.158	0.158	1
+X begin NN -- Y	0.158	0.158	0.158	1
+X starting in Y	0.158	0.158	0.158	1
+X are set for Y	0.158	0.158	0.158	1
+X , set to begin Y	0.157	0.157	0.157	1
+X begin this Y	0.157	0.157	0.157	1
+X cancels Y	0.157	0.157	0.157	1
+X began three days of Y	0.157	0.157	0.157	1
+X arrives in beijing beijing , Y	0.157	0.157	0.157	1
+X for its fourth quarter ended Y	0.156	0.156	0.156	1
+X , which ends on Y	0.156	0.156	0.156	1
+X and nytNN sent on Y	0.156	0.156	0.156	1
+X staged a six -- Y	0.156	0.156	0.156	1
+X -- interrupted Y	0.156	0.156	0.156	1
+X have been Y	0.156	0.156	0.156	1
+X was held in Y	0.156	0.156	0.156	1
+X due to take place in Y	0.156	0.156	0.156	1
+X prime minister to visit Y	0.155	0.155	0.155	1
+X for the fourth quarter ended Y	0.155	0.155	0.155	1
+X , which begin Y	0.155	0.155	0.155	1
+X starts in Y	0.155	0.155	0.155	1
+X , scheduled Y	0.155	0.155	0.155	1
+X to visit Y	0.155	0.155	0.155	1
+Y following a three -- X	0.155	0.155	0.155	1
+Y by NN runs at X	0.155	0.155	0.155	1
+X end higher jakarta , Y	0.154	0.154	0.154	1
+X resumed the Y	0.154	0.154	0.154	1
+X plan Y	0.154	0.154	0.154	1
+X , which began last Y	0.154	0.154	0.154	1
+X that is part of a Y	0.154	0.154	0.154	1
+X launches anti -- Y	0.154	0.154	0.154	1
+X will begin its Y	0.154	0.154	0.154	1
+X has been a major Y	0.153	0.153	0.153	1
+X also discussed the Y	0.153	0.153	0.153	1
+X begin in Y	0.153	0.153	0.153	1
+Y to snap the X	0.153	0.153	0.153	1
+X continued Y	0.153	0.153	0.153	1
+X hopes alive Y	0.153	0.153	0.153	1
+X , who want the Y	0.153	0.153	0.153	1
+X , starting on Y	0.153	0.153	0.153	1
+X , dating to Y	0.153	0.153	0.153	1
+X , which takes place on Y	0.152	0.152	0.152	1
+X to advance to Y	0.152	0.152	0.152	1
+X starting Y	0.152	0.152	0.152	1
+X without scoring a Y	0.152	0.152	0.152	1
+X to begin Y	0.151	0.151	0.151	1
+X appointed in Y	0.151	0.151	0.151	1
+X would begin on Y	0.151	0.151	0.151	1
+Y of protesting X	0.151	0.151	0.151	1
+X is to start Y	0.151	0.151	0.151	1
+Y -- based association of X	0.151	0.151	0.151	1
+X wraps up Y	0.151	0.151	0.151	1
+X got under Y	0.151	0.151	0.151	1
+X were detained on Y	0.151	0.151	0.151	1
+X save on Y	0.151	0.151	0.151	1
+X which gets underway on Y	0.151	0.151	0.151	1
+Y left NN X	0.151	0.151	0.151	1
+X concludes visit to Y	0.151	0.151	0.151	1
+Y resume at NNNN X	0.151	0.151	0.151	1
+X boycott Y	0.15	0.150	0.150	1
+X and start Y	0.15	0.150	0.150	1
+X to end a Y	0.15	0.150	0.150	1
+X ) australia beat Y	0.15	0.150	0.150	1
+Y , swapping X	0.15	0.150	0.150	1
+X cuts both Y	0.15	0.150	0.150	1
+X expected to begin Y	0.15	0.150	0.150	1
+X scheduled for late Y	0.15	0.150	0.150	1
+X erupted on Y	0.15	0.150	0.150	1
+X which starts on Y	0.15	0.150	0.150	1
+X are gathering in Y	0.15	0.150	0.150	1
+X proposes Y	0.15	0.150	0.150	1
